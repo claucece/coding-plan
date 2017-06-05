@@ -11,12 +11,11 @@ Esto es un plan que dura ciertos meses para aprender a codificar.
 ## Tabla de Contenidos
 
 - [Qué es esto?](#qué-es-esto)
-- [Cómo usarlo?](#como-usarlo)
+- [Cómo usarlo?](#cómo-usarlo)
 - [General](#general)
 - [Elegir un lenguaje](#elegir-un-lenguaje)
 - [Lista de libros](#lista-de-libros)
 - [Prerequisito](#prerequisito)
-- [Git](#git)
 - [Complejidad algorítmica / Big-O / Análisis asimtópico](#complejidad--algorítmica--big-o--análisis-asimtópico)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
