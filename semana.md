@@ -7,3 +7,5 @@
 - [ ] Mandar ejercicio de codificación.
 - [ ] Hacer los primeros 5 ejercicios de: [Project Euler](https://projecteuler.net/archives)
 - [ ] Leer: [Computing Machinery and Intelligence](http://phil415.pbworks.com/f/TuringComputing.pdf)
+- [ ] Comenzar a leer "Head First Java"
+- [ ] Realizar tarea 1
