@@ -14,4 +14,4 @@
 - [ ] Desarrollar una expliación de el primer principio SOLID, de una clase y un objeto.
 - [ ] Comenzar a leer "Head First Java"
 - [ ] Agendarme una reunión.
-- [ ] Comenzar a realizar la tarea 2(a publicarse el miércoles).
+- [ ] Comenzar a realizar la tarea 2: la explicación está en el archivo 'tarea2.md'.
